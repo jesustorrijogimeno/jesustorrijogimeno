@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **jesustorrijogimeno@gmail.com**
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesustorrijogimeno&show_icons=true&locale=en&layout=compact" alt="ovi" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jes%c3%bas-torrijo-gimeno-6743448a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jes%c3%bas-torrijo-gimeno-6743448a/" height="30" width="40" /></a>
